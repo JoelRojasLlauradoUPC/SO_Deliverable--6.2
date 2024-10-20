@@ -1,0 +1,11 @@
+C:\Users\joelr\Documents\UNI\SO\RojasLlauradoJoel_Ejercicio_Guia_SO\ClienteC#\miClienteC#\miClienteC#\obj\Debug\miClienteC#.csproj.AssemblyReference.cache
+C:\Users\joelr\Documents\UNI\SO\RojasLlauradoJoel_Ejercicio_Guia_SO\ClienteC#\miClienteC#\miClienteC#\obj\Debug\miClienteC_.Form1.resources
+C:\Users\joelr\Documents\UNI\SO\RojasLlauradoJoel_Ejercicio_Guia_SO\ClienteC#\miClienteC#\miClienteC#\obj\Debug\miClienteC_.Properties.Resources.resources
+C:\Users\joelr\Documents\UNI\SO\RojasLlauradoJoel_Ejercicio_Guia_SO\ClienteC#\miClienteC#\miClienteC#\obj\Debug\miClienteC#.csproj.GenerateResource.cache
+C:\Users\joelr\Documents\UNI\SO\RojasLlauradoJoel_Ejercicio_Guia_SO\ClienteC#\miClienteC#\miClienteC#\obj\Debug\miClienteC#.csproj.CoreCompileInputs.cache
+C:\Users\joelr\Documents\UNI\SO\RojasLlauradoJoel_Ejercicio_Guia_SO\ClienteC#\miClienteC#\miClienteC#\obj\Debug\miClienteC_.Form2.resources
+C:\Users\joelr\Documents\UNI\SO\RojasLlauradoJoel_Ejercicio_Guia_SO\ClienteC#\miClienteC#\miClienteC#\bin\Debug\miClienteC#.exe.config
+C:\Users\joelr\Documents\UNI\SO\RojasLlauradoJoel_Ejercicio_Guia_SO\ClienteC#\miClienteC#\miClienteC#\bin\Debug\miClienteC#.exe
+C:\Users\joelr\Documents\UNI\SO\RojasLlauradoJoel_Ejercicio_Guia_SO\ClienteC#\miClienteC#\miClienteC#\bin\Debug\miClienteC#.pdb
+C:\Users\joelr\Documents\UNI\SO\RojasLlauradoJoel_Ejercicio_Guia_SO\ClienteC#\miClienteC#\miClienteC#\obj\Debug\miClienteC#.exe
+C:\Users\joelr\Documents\UNI\SO\RojasLlauradoJoel_Ejercicio_Guia_SO\ClienteC#\miClienteC#\miClienteC#\obj\Debug\miClienteC#.pdb
